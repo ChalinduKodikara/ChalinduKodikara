@@ -10,9 +10,9 @@
 
 - 👨‍🎓 I’m studying at **University of Moratuwa, Sri Lanka.**
 
-- 📝 I regularly write articles on [https://chalindu.medium.com/](https://chalindu.medium.com/)
-
 - 👨‍💻 Former software engineering intern at **WSO2, Sri Lanka.**
+
+- 📝 I regularly write articles on [https://chalindu.medium.com/](https://chalindu.medium.com/)
 
 - 📫 How to reach me **chalindu.18@cse.mrt.ac.lk**
 

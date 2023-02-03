@@ -1,5 +1,5 @@
 [![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)](https://rishavchanda.io)
-<h1 align="center">Hi 👋,I'm Chalindu Kodikra</h1>
+<h1 align="center">Hi 👋,I'm Chalindu Kodikara</h1>
 <h3 align="center">Computer Science & Engineering Undergraduate</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 

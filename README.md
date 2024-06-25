@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍🎓 I’m studying at **University of Moratuwa, Sri Lanka.**
+<!-- - 👨‍🎓 I’m studying at **University of Moratuwa, Sri Lanka.** -->
 
-- 👨‍💻 Former software engineering intern at **WSO2, Sri Lanka.**
+<!-- - 👨‍💻 Former software engineering intern at **WSO2, Sri Lanka.** -->
 
-- 📝 I regularly write articles on [https://chalindu.medium.com/](https://chalindu.medium.com/)
+<!-- - 📝 I regularly write articles on [https://chalindu.medium.com/](https://chalindu.medium.com/) -->
 
 - 📫 How to reach me **chalindu.18@cse.mrt.ac.lk**
 
